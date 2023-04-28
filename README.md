@@ -92,7 +92,7 @@ HTML and CSS
 
 ### Key Features <a name="key-features"></a>
 <details>
- <summary>Linter instullation</summary>
+ <summary>Linter instullation usage</summary>
  </details>
  <details>
  <summary>Html and Css functions</summary>
