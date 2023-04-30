@@ -215,6 +215,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Readers Your support to project this channel:
 >git@https://github.com/Ejikeokegbe/hello-microverse.git
+>LinkedIn:[@Ejikeokegbe]https://linkedin.com/in/clifford-okegbe-2b4627191/
 
 If you like this project support through the link.
 
