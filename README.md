@@ -183,9 +183,9 @@ Example:
 
 <h2>Okegbe Clifford Ejike</h2>
 
-- GitHub: [@gEjikeokegbe](https://github.com/Ejikeokegbe)
+- GitHub: [@gEjikeokegbe]https://github.com/Ejikeokegbe
 
-- LinkedIn: [Ejikeokegbe](https://linkedin.com/in/Ejikeokegbe)
+- LinkedIn: [@Ejikeokegbe]https://linkedin.com/in/clifford-okegbe-2b4627191/
 
 
 
